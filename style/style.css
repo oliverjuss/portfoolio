@@ -52,7 +52,7 @@ body
     max-width: 100px;
     margin-bottom: 10px;
 }
-/* k'tepesu */
+
 .container .box:nth-child(1)
 {
     grid-column: span 2;
@@ -60,14 +60,14 @@ body
     
 }
 
-/* aevastaja */
+
 .container .box:nth-child(4)
 {
     grid-column: span 1;
     grid-row: span 4;
     
 }
-/* kass */
+
 .container .box:nth-child(7)
 {
     grid-column: span 3;
@@ -75,7 +75,7 @@ body
     
 }
 
-/* kohver */
+
 .container .box:nth-child(2)
 {
     grid-column: span 1;

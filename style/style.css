@@ -57,7 +57,7 @@ body
 {
     grid-column: span 2;
     grid-row: span 1;
-    color: turquoise;
+    
 }
 
 /* aevastaja */
@@ -65,14 +65,14 @@ body
 {
     grid-column: span 1;
     grid-row: span 4;
-    color: blue;
+    
 }
 /* kass */
 .container .box:nth-child(7)
 {
     grid-column: span 3;
     grid-row: span 3;
-    color: coral;
+    
 }
 
 /* kohver */
@@ -80,7 +80,7 @@ body
 {
     grid-column: span 1;
     grid-row: span 2;
-    color: darkgreen;
+    
 }
 @media (max-width: 991px)
 {
